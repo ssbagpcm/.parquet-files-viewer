@@ -12,3 +12,7 @@
 *AI has diverse applications across industries and domains, revolutionizing fields such as healthcare, finance, manufacturing, transportation, entertainment, and more. Examples of AI applications include virtual assistants like Siri and Alexa, autonomous vehicles, recommendation systems, medical diagnosis tools, and fraud detection algorithms.*
 
 *The development of AI raises ethical, social, and philosophical questions regarding its impact on employment, privacy, bias, accountability, and the future of humanity. Nonetheless, AI continues to advance rapidly, pushing the boundaries of what machines can achieve and reshaping the way we live, work, and interact with technology.*
+
+# USAGE
+
+Download the repository and click on the downloaded file named `ParquetViewer.exe`.
